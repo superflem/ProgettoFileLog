@@ -19,7 +19,7 @@
 integrati nell’IDE
 
 # LINK
-- [NodeJS](https://nodejs.dev/)id=sxcmexmn8jgm3xfw3s7atdaqwy)
+- [NodeJS](https://nodejs.dev/)
 # Usare l'applicazione
 
 ## Frontend
