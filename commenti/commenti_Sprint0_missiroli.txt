@@ -1,0 +1,27 @@
+Confermo tutti i commenti di Torricelli, a cui aggiungo. 
+
+Mi pare ci sia un po' di confusione sul concetto Backlog/User Stories. 
+Il Backlog E' l'insieme delle US non ancora realizzate, voi avete fatto un elemento "Backlog" che non contiene US , pare un mix di desideri e richieste tecniche. 
+Le US invece sono stimate, anche se poi in TAIGA avete messo stime diverse. Decidetevi e uniformate. (non ho potuto controllare su Taiga, stasera non riesco a collegarmi). Come dice PT, sono molto poco definite, alcune molto "ciccione", non mi pare che tutte rientrino nella DOR (per esempio: "Io utente voglio capire da dove vengono le azioni e che cosa comportano" mi sembra ben poco chiara e altrettanto poco stimabile). 
+Lo sprint goal non è uno sprint goal, è un elenco di sotto-obiettivi, molti dei quali tecnici. Il vostreo vero sprint goal, anche guardando il taiga, "Realizzazione del sistema di autenticazione". 
+Consiglio una intensa sessione dei Backlog Grooming. 
+
+
+
+
+  Uploadate i documenti che non avete messo, incluso la descrizione.
+  
+  Per Scrumble, bene la relazione, ma la parte GQM risulta tagliata. Usate per favore l'excel che vi ho formito, mi serve per statistiche generali e forse per scriverci un paper.
+  
+  
+  
+  
+
+
+Backlog == User Stories?
+Manca Sprint backlog / goal
+Manca Schema architetturale (poche info, incompleto)
+Sprint 1 goal minimale/ non prioritario
+No UML
+No Descrizione
+

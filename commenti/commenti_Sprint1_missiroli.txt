@@ -1,0 +1,30 @@
+GIT
+Non si capisce bene cosa sia quel file 2002t1.jar buttato lì (si capisce dal readme, ma non è il suo posto). 
+Il contributo principale è di due sole persone, almeno così risulta dai log.
+nella cartella /code togliete quel file .zip.
+ 
+/test
+/Database: presente (SQL, 1 tabella, 8 record)
+
+Backlog: Bene la visualizzazione, anche se io avrei usato taiga (nella quale tra l'altro NON vedo lo sprint 0). Le storie restano ancora poche e poco chiare. Il burndown è un burnup, anche qui non si capisce perché non avete usato taiga, che lo fa in automatico. Ancora, mancano sprint goal, DOR; DOD
+La scelta dello sprint goal 2 è mostruosamente ambiziosa, in pratica volete fare tutto. Good luck
+
+
+/doc
+Casi d'uso: non modificato (bad)
+log: aggiornato
+Diagramma architetturale: non modificato (bad)
+Documento rischi aggiornato (meglio)
+UML: quello che avete postato è uno strano ibrido archietturale/sequenziale, ma non è un diagramma delle classi. O mi dite che avete una classe BACKEND con una classe LOGIN con un array di oggetti utente? Ne dubito. Evidenziate classi, metodi, proprietà
+
+review: il video segue le indicazioni dal punto di vista tecnico. Non creado che il concetto di "logout sicuro" sia stato completato, piuttosto è stato implementato un pulsante di logout. Tuttavia, pensate a questo scenario: il tecnico/amministratore si allontana temporanemente dal teminale, e dopo un po' passa un altra persona che si trova davanti a un sistema perfettamente accessibile. Questa US deve tornare nel backlog. Aggiungo, penso che la scelta di occuparsi come prima cosa dell'autenticazione non sia stata premiante. 
+
+
+
+
+
+
+
+
+
+

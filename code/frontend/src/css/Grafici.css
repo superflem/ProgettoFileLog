@@ -1,0 +1,19 @@
+.grafici {
+    width: 100%;
+    text-align: center;
+}
+
+.cellaGrafici {
+    width: 50%;
+}
+
+#tabellaGrafici {
+    width: 50%;
+    margin: auto;
+}
+
+#bytes {
+    height: 40%;
+    width: 40%;
+    margin: auto;
+}

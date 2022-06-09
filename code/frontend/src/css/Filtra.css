@@ -1,0 +1,25 @@
+.filtra {
+    text-align: center;
+    width: 40%;
+    margin:auto;
+}
+
+#bottoneFiltra {
+    background-color: gold;
+    height: 40px;
+    width: 20%;
+    border-radius: 10px;
+    font-size: 15px;
+}
+
+#bottoneFiltra:hover {
+    background-color: red;
+}
+
+h2 {
+    color: white;
+}
+
+.tabellaLog {
+    width: 25%;
+}

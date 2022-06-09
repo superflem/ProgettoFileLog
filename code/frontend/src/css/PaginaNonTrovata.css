@@ -1,0 +1,15 @@
+#nonTrovata {
+    font-size: 150px;
+}
+
+span {
+    background-color: grey;
+    opacity: 0.9;
+    border-radius: 20px;
+    padding: 10px;  
+}
+
+#noTrovata {
+    color: white;
+    font-size: 100px;
+}

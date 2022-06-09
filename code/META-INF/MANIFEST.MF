@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: geoip2-3.0.1.jar maxmind-db-2.0.0.jar jackson-databind-2.13.
+ 2.2.jar jackson-core-2.13.2.jar jackson-annotations-2.13.2.jar sqlite-j
+ dbc-3.36.0.3.jar org.json-chargebee-1.0.jar javax.mail.jar javax.mail.j
+ ar jakarta.mail-1.6.4.jar jakarta.activation-1.2.1.jar java-grok-0.1.9.
+ jar commons-lang3-3.7.jar junit-jupiter-5.9.0-M1.jar junit-jupiter-api-
+ 5.9.0-M1.jar opentest4j-1.2.0.jar junit-platform-commons-1.9.0-M1.jar a
+ piguardian-api-1.1.2.jar junit-jupiter-params-5.9.0-M1.jar junit-jupite
+ r-engine-5.9.0-M1.jar junit-platform-engine-1.9.0-M1.jar
+

@@ -1,0 +1,40 @@
+.log {
+    width: 70%;
+    background-color: black;
+    padding: 1px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: auto;
+    height: 300px;
+
+    overflow: scroll;
+}
+
+.buono {
+    background-color: #33cc33;
+}
+
+.errore {
+    background-color: red;
+}
+
+p {
+    margin: 0px;
+    padding: 2px;
+}
+
+.primo {
+    border-radius: 10px 10px 0px 0px;
+}
+
+.ultimo {
+    border-radius: 0px 0px 10px 10px;
+}
+
+#lel:hover {
+    background-color: blue;
+}
+
+.blu:hover {
+    background-color: #00ccff;
+}
